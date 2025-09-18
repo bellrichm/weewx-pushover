@@ -1,5 +1,8 @@
 # weewx-pushover
 
+This repository has a new home at, https://github.com/weewx-extensions/pushover/
+
+
 A WeeWX extension that sends alerts via [Pushover](https://pushover.net).
 
 ## Installation and configuring `weewx-pushover`
